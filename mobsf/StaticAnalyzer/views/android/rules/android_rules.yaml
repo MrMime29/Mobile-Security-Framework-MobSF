@@ -124,7 +124,7 @@
   pattern:
     - \.getExternalStorage
     - \.getExternalFilesDir\(
-  severity: warning
+  severity: high
   input_case: exact
   metadata:
     cvss: 5.5
